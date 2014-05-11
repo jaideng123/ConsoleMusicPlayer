@@ -1,7 +1,7 @@
 ConsoleMusicPlayer
 ==================
 
-Console music player, only plays mp3s for now and only runs on windows, still being improved
+Console music player, only plays mp3s for now and only runs on windows
 
 Features to Add:
     REDESIGN W/ GUI,
